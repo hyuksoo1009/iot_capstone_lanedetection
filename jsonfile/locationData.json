@@ -1,0 +1,774 @@
+{
+  "locationData": [
+    {
+      "name": "김포(하행)",
+      "latitude": 37.58700244,
+      "longitude": 126.7606632
+    },
+    {
+      "name": "시흥(하행)",
+      "latitude": 37.45048055,
+      "longitude": 126.8031881
+    },
+    {
+      "name": "서서울(하행)",
+      "latitude": 37.35493291,
+      "longitude": 126.8619876
+    },
+    {
+      "name": "군자",
+      "latitude": 37.35875579,
+      "longitude": 126.7807808
+    },
+    {
+      "name": "이목",
+      "latitude": 37.31955099,
+      "longitude": 126.9857648
+    },
+    {
+      "name": "용인",
+      "latitude": 37.28861576,
+      "longitude": 127.1387267
+    },
+    {
+      "name": "향남",
+      "latitude": 37.07012,
+      "longitude": 126.88836
+    },
+    {
+      "name": "송탄(하행)",
+      "latitude": 37.032321,
+      "longitude": 127.081361
+    },
+    {
+      "name": "오산(하행)",
+      "latitude": 37.1542659,
+      "longitude": 127.0861027
+    },
+    {
+      "name": "남사",
+      "latitude": 37.09619,
+      "longitude": 127.12075
+    },
+    {
+      "name": "원곡",
+      "latitude": 37.00111198,
+      "longitude": 127.1519713
+    },
+    {
+      "name": "번천(하행)",
+      "latitude": 37.45446159,
+      "longitude": 127.254336
+    },
+    {
+      "name": "도척(하행)",
+      "latitude": 37.32332718,
+      "longitude": 127.3387835
+    },
+    {
+      "name": "상번천(하행)",
+      "latitude": 37.44787093,
+      "longitude": 127.27544
+    },
+    {
+      "name": "청계",
+      "latitude": 37.39327011,
+      "longitude": 127.0223096
+    },
+    {
+      "name": "성남",
+      "latitude": 37.44119064,
+      "longitude": 127.1347192
+    },
+    {
+      "name": "구리남양주",
+      "latitude": 37.58972,
+      "longitude": 127.1559021
+    },
+    {
+      "name": "생태습지",
+      "latitude": 37.23526586,
+      "longitude": 127.6038416
+    },
+    {
+      "name": "적금(하행)",
+      "latitude": 37.25885706,
+      "longitude": 127.7153001
+    },
+    {
+      "name": "소초(하행)",
+      "latitude": 37.42026395,
+      "longitude": 128.0019496
+    },
+    {
+      "name": "삽교(하행)",
+      "latitude": 37.52216459,
+      "longitude": 128.2743265
+    },
+    {
+      "name": "월정(하행)",
+      "latitude": 37.66392828,
+      "longitude": 128.5932328
+    },
+    {
+      "name": "대관령",
+      "latitude": 37.6751734,
+      "longitude": 128.7202156
+    },
+    {
+      "name": "대관령전망대",
+      "latitude": 37.72400902,
+      "longitude": 128.7790019
+    },
+    {
+      "name": "홍천강",
+      "latitude": 37.71175324,
+      "longitude": 127.8275845
+    },
+    {
+      "name": "만종(하행)",
+      "latitude": 37.35014699,
+      "longitude": 127.9099097
+    },
+    {
+      "name": "횡성(하행)",
+      "latitude": 37.58111815,
+      "longitude": 127.9741438
+    },
+    {
+      "name": "북방",
+      "latitude": 37.75810138,
+      "longitude": 127.880209
+    },
+    {
+      "name": "단봉",
+      "latitude": 37.45971546,
+      "longitude": 129.107133
+    },
+    {
+      "name": "강현(하행)",
+      "latitude": 38.11953935,
+      "longitude": 128.5797114
+    },
+    {
+      "name": "인제(하행)",
+      "latitude": 37.84093096,
+      "longitude": 128.233328
+    },
+    {
+      "name": "양양(하행)",
+      "latitude": 37.99956719,
+      "longitude": 128.5363842
+    },
+    {
+      "name": "이천(하행)",
+      "latitude": 37.24176915,
+      "longitude": 127.4654933
+    },
+    {
+      "name": "여주(하행)",
+      "latitude": 37.34166074,
+      "longitude": 127.5467197
+    },
+    {
+      "name": "모가(하행)",
+      "latitude": 37.19686,
+      "longitude": 127.44343
+    },
+    {
+      "name": "일죽(하행)",
+      "latitude": 37.08426,
+      "longitude": 127.4570094
+    },
+    {
+      "name": "대소",
+      "latitude": 36.97707396,
+      "longitude": 127.4692814
+    },
+    {
+      "name": "진천",
+      "latitude": 36.85361062,
+      "longitude": 127.4868784
+    },
+    {
+      "name": "농다리",
+      "latitude": 36.83465606,
+      "longitude": 127.494039
+    },
+    {
+      "name": "오창(하행)",
+      "latitude": 36.73465,
+      "longitude": 127.45661
+    },
+    {
+      "name": "봉양",
+      "latitude": 37.17850371,
+      "longitude": 128.1289432
+    },
+    {
+      "name": "가남",
+      "latitude": 37.1690741,
+      "longitude": 127.6265365
+    },
+    {
+      "name": "앙성",
+      "latitude": 37.09940663,
+      "longitude": 127.7157274
+    },
+    {
+      "name": "노은",
+      "latitude": 37.03983887,
+      "longitude": 127.7703458
+    },
+    {
+      "name": "대소원",
+      "latitude": 36.97440026,
+      "longitude": 127.8477682
+    },
+    {
+      "name": "회인",
+      "latitude": 36.50179435,
+      "longitude": 127.59179
+    },
+    {
+      "name": "탄부(하행)",
+      "latitude": 36.45441271,
+      "longitude": 127.769757
+    },
+    {
+      "name": "상주(하행)",
+      "latitude": 36.40745,
+      "longitude": 128.0699237
+    },
+    {
+      "name": "중앙탑(하행)",
+      "latitude": 37.04071855,
+      "longitude": 127.8304502
+    },
+    {
+      "name": "금성(하행)",
+      "latitude": 37.07784786,
+      "longitude": 128.1502779
+    },
+    {
+      "name": "광혜원",
+      "latitude": 36.95214955,
+      "longitude": 127.4258721
+    },
+    {
+      "name": "사벌",
+      "latitude": 36.46289,
+      "longitude": 128.20033
+    },
+    {
+      "name": "낙상",
+      "latitude": 36.44756543,
+      "longitude": 128.2059013
+    },
+    {
+      "name": "문경(하행)",
+      "latitude": 36.716794,
+      "longitude": 128.105148
+    },
+    {
+      "name": "연곡",
+      "latitude": 36.95431144,
+      "longitude": 127.1830073
+    },
+    {
+      "name": "입장",
+      "latitude": 36.91443246,
+      "longitude": 127.1884647
+    },
+    {
+      "name": "옥산",
+      "latitude": 36.655882,
+      "longitude": 127.372294
+    },
+    {
+      "name": "신탄진",
+      "latitude": 36.42535428,
+      "longitude": 127.4166966
+    },
+    {
+      "name": "서대전",
+      "latitude": 36.3157,
+      "longitude": 127.30662
+    },
+    {
+      "name": "유성",
+      "latitude": 36.38088562,
+      "longitude": 127.3354653
+    },
+    {
+      "name": "북대전(하행)",
+      "latitude": 36.40617198,
+      "longitude": 127.3678197
+    },
+    {
+      "name": "옥천(하행)",
+      "latitude": 36.33624741,
+      "longitude": 127.5284274
+    },
+    {
+      "name": "청성",
+      "latitude": 36.27171161,
+      "longitude": 127.7407581
+    },
+    {
+      "name": "추풍령(하행)",
+      "latitude": 36.21098462,
+      "longitude": 127.9885463
+    },
+    {
+      "name": "산내",
+      "latitude": 36.28080824,
+      "longitude": 127.4495555
+    },
+    {
+      "name": "당진(하행)",
+      "latitude": 36.90075043,
+      "longitude": 126.7184687
+    },
+    {
+      "name": "용연",
+      "latitude": 36.86123428,
+      "longitude": 126.645546
+    },
+    {
+      "name": "고북",
+      "latitude": 36.65116146,
+      "longitude": 126.5583118
+    },
+    {
+      "name": "갈산",
+      "latitude": 36.63471618,
+      "longitude": 126.5531285
+    },
+    {
+      "name": "서산",
+      "latitude": 36.828862,
+      "longitude": 126.588515
+    },
+    {
+      "name": "금남",
+      "latitude": 36.45063,
+      "longitude": 127.25409
+    },
+    {
+      "name": "시초",
+      "latitude": 36.12771449,
+      "longitude": 126.7661638
+    },
+    {
+      "name": "부여",
+      "latitude": 36.31945138,
+      "longitude": 126.8743153
+    },
+    {
+      "name": "삼례(하행)",
+      "latitude": 35.91813603,
+      "longitude": 127.0700848
+    },
+    {
+      "name": "전주(하행)",
+      "latitude": 35.86947805,
+      "longitude": 127.05163
+    },
+    {
+      "name": "서전주",
+      "latitude": 35.81832633,
+      "longitude": 127.0295201
+    },
+    {
+      "name": "태인",
+      "latitude": 35.66350643,
+      "longitude": 126.9322504
+    },
+    {
+      "name": "정우(하행)",
+      "latitude": 35.63629248,
+      "longitude": 126.90284
+    },
+    {
+      "name": "내장산(하행)",
+      "latitude": 35.53813,
+      "longitude": 126.81431
+    },
+    {
+      "name": "마이산(하행)",
+      "latitude": 35.767278,
+      "longitude": 127.363435
+    },
+    {
+      "name": "금산(하행)",
+      "latitude": 36.06055,
+      "longitude": 127.55243
+    },
+    {
+      "name": "무주(하행)",
+      "latitude": 35.911465,
+      "longitude": 127.666254
+    },
+    {
+      "name": "논산(하행)",
+      "latitude": 36.15327,
+      "longitude": 127.16455
+    },
+    {
+      "name": "완주(하행)",
+      "latitude": 35.92778,
+      "longitude": 127.1014
+    },
+    {
+      "name": "서김제(하행)",
+      "latitude": 35.85305,
+      "longitude": 126.843
+    },
+    {
+      "name": "줄포",
+      "latitude": 35.56979,
+      "longitude": 126.69472
+    },
+    {
+      "name": "고창",
+      "latitude": 35.37776,
+      "longitude": 126.60405
+    },
+    {
+      "name": "광천",
+      "latitude": 36.47863534,
+      "longitude": 126.5872371
+    },
+    {
+      "name": "무창포",
+      "latitude": 36.2749228,
+      "longitude": 126.5791253
+    },
+    {
+      "name": "춘장대(하행)",
+      "latitude": 36.19893677,
+      "longitude": 126.5884265
+    },
+    {
+      "name": "서천(하행)",
+      "latitude": 36.06879574,
+      "longitude": 126.747055
+    },
+    {
+      "name": "담양",
+      "latitude": 35.26094439,
+      "longitude": 126.9711687
+    },
+    {
+      "name": "장성(하행)",
+      "latitude": 35.3168901,
+      "longitude": 126.7939767
+    },
+    {
+      "name": "광산",
+      "latitude": 35.22685,
+      "longitude": 126.82632
+    },
+    {
+      "name": "대덕",
+      "latitude": 35.24506423,
+      "longitude": 127.0258298
+    },
+    {
+      "name": "삼기(하행)",
+      "latitude": 35.23453,
+      "longitude": 127.20365
+    },
+    {
+      "name": "장성물류(하행)",
+      "latitude": 35.347262,
+      "longitude": 126.7778
+    },
+    {
+      "name": "태령(하행)",
+      "latitude": 35.24901,
+      "longitude": 126.92727
+    },
+    {
+      "name": "주암(하행)",
+      "latitude": 35.05576,
+      "longitude": 127.27743
+    },
+    {
+      "name": "순천",
+      "latitude": 34.995904,
+      "longitude": 127.49431
+    },
+    {
+      "name": "광양(하행)",
+      "latitude": 34.98376,
+      "longitude": 127.5897
+    },
+    {
+      "name": "영광",
+      "latitude": 35.25113,
+      "longitude": 126.51946
+    },
+    {
+      "name": "몽탄(하행)",
+      "latitude": 34.95114,
+      "longitude": 126.50445
+    },
+    {
+      "name": "벌교",
+      "latitude": 34.823812,
+      "longitude": 127.381603
+    },
+    {
+      "name": "강진(하행)",
+      "latitude": 34.694235,
+      "longitude": 126.755097
+    },
+    {
+      "name": "대강",
+      "latitude": 35.38527305,
+      "longitude": 127.2343431
+    },
+    {
+      "name": "봉산(하행)",
+      "latitude": 36.15651708,
+      "longitude": 128.0264901
+    },
+    {
+      "name": "대신(하행)",
+      "latitude": 36.15281944,
+      "longitude": 128.1907565
+    },
+    {
+      "name": "선기(하행)",
+      "latitude": 36.13627142,
+      "longitude": 128.3165002
+    },
+    {
+      "name": "석적",
+      "latitude": 36.05163274,
+      "longitude": 128.4080556
+    },
+    {
+      "name": "지천",
+      "latitude": 35.92212137,
+      "longitude": 128.4844738
+    },
+    {
+      "name": "검단(하행)",
+      "latitude": 35.91575,
+      "longitude": 128.61441
+    },
+    {
+      "name": "북안(하행)",
+      "latitude": 35.9246295,
+      "longitude": 128.999844
+    },
+    {
+      "name": "칠곡(하행)",
+      "latitude": null,
+      "longitude": null
+    },
+    {
+      "name": "봉무(하행)",
+      "latitude": 35.93148217,
+      "longitude": 128.6525431
+    },
+    {
+      "name": "안평(하행)",
+      "latitude": 36.37903059,
+      "longitude": 128.57744
+    },
+    {
+      "name": "명곡(하행)",
+      "latitude": 36.12560806,
+      "longitude": 128.54175
+    },
+    {
+      "name": "읍내",
+      "latitude": 35.94841,
+      "longitude": 128.5476662
+    },
+    {
+      "name": "화산",
+      "latitude": 36.01706571,
+      "longitude": 128.8854996
+    },
+    {
+      "name": "남상(하행)",
+      "latitude": 35.636051,
+      "longitude": 127.906245
+    },
+    {
+      "name": "쌍림",
+      "latitude": 35.7006443,
+      "longitude": 128.2338851
+    },
+    {
+      "name": "고령",
+      "latitude": 35.72240209,
+      "longitude": 128.2973482
+    },
+    {
+      "name": "보문",
+      "latitude": 36.68978886,
+      "longitude": 128.554036
+    },
+    {
+      "name": "풍산",
+      "latitude": 36.60315372,
+      "longitude": 128.5841601
+    },
+    {
+      "name": "죽령(하행)",
+      "latitude": 36.91372023,
+      "longitude": 128.3969014
+    },
+    {
+      "name": "아포",
+      "latitude": 36.19807703,
+      "longitude": 128.2591005
+    },
+    {
+      "name": "선산",
+      "latitude": 36.21309917,
+      "longitude": 128.2621289
+    },
+    {
+      "name": "오봉",
+      "latitude": 36.09261436,
+      "longitude": 128.2616627
+    },
+    {
+      "name": "개진",
+      "latitude": 35.7041488,
+      "longitude": 128.417746
+    },
+    {
+      "name": "삼춘",
+      "latitude": 36.42102683,
+      "longitude": 128.576998
+    },
+    {
+      "name": "하화",
+      "latitude": 36.41882715,
+      "longitude": 128.699326
+    },
+    {
+      "name": "묵계",
+      "latitude": 36.43786162,
+      "longitude": 128.9287923
+    },
+    {
+      "name": "지품",
+      "latitude": 36.48092,
+      "longitude": 129.1747296
+    },
+    {
+      "name": "수암",
+      "latitude": 36.46159596,
+      "longitude": 129.2107704
+    },
+    {
+      "name": "일광(하행)",
+      "latitude": 35.29233912,
+      "longitude": 129.2061941
+    },
+    {
+      "name": "김해(하행)",
+      "latitude": 35.22085404,
+      "longitude": 128.8702906
+    },
+    {
+      "name": "북창원",
+      "latitude": 35.28314827,
+      "longitude": 128.6172025
+    },
+    {
+      "name": "진례(하행)",
+      "latitude": 35.24528591,
+      "longitude": 128.7603006
+    },
+    {
+      "name": "창원(하행)",
+      "latitude": 35.26331546,
+      "longitude": 128.6120097
+    },
+    {
+      "name": "곤양(하행)",
+      "latitude": 35.05317013,
+      "longitude": 127.9446964
+    },
+    {
+      "name": "지수(하행)",
+      "latitude": 35.20799567,
+      "longitude": 128.2582372
+    },
+    {
+      "name": "서상(하행)",
+      "latitude": 35.6335,
+      "longitude": 127.71391
+    },
+    {
+      "name": "수동(하행)",
+      "latitude": 35.51724618,
+      "longitude": 127.7962334
+    },
+    {
+      "name": "금서(하행)",
+      "latitude": 35.43837913,
+      "longitude": 127.85477
+    },
+    {
+      "name": "진주(하행)",
+      "latitude": 35.19697858,
+      "longitude": 128.0295319
+    },
+    {
+      "name": "울산(하행)",
+      "latitude": 35.55007712,
+      "longitude": 129.1676029
+    },
+    {
+      "name": "현풍",
+      "latitude": 35.66672,
+      "longitude": 128.43592
+    },
+    {
+      "name": "창녕(하행)",
+      "latitude": 35.54493533,
+      "longitude": 128.4757461
+    },
+    {
+      "name": "금곡(하행)",
+      "latitude": 35.09495156,
+      "longitude": 128.1644658
+    },
+    {
+      "name": "고성(하행)",
+      "latitude": 34.98175411,
+      "longitude": 128.3735157
+    },
+    {
+      "name": "내남",
+      "latitude": 35.75225939,
+      "longitude": 129.194721
+    },
+    {
+      "name": "언양",
+      "latitude": 35.59837007,
+      "longitude": 129.140183
+    },
+    {
+      "name": "삼남",
+      "latitude": 35.545332,
+      "longitude": 129.118872
+    },
+    {
+      "name": "양산(하행)",
+      "latitude": 35.34236,
+      "longitude": 129.04216
+    }
+  ]
+}

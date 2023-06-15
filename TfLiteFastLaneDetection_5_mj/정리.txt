@@ -1,0 +1,5 @@
+1. ModelType.CULANE (데이터셋 CULANE으로 만들어진 모델)
+2. 다운받을 패키지 없음. 실행했다가 오류나면 pip install하면됨.
+3. ultrafastLaneDetector.py - def process_output()에서 
+	lane_points_mat에 좌표값 저장됨.
+4. videoLaneDetection.py 돌려볼 것 
